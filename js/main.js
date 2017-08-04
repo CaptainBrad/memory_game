@@ -92,3 +92,5 @@ var turnOnButton = function() {
 createBoard();
 turnOnButton();
 setScore();
+
+//final
